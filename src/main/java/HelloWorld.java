@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("HelloWorld");
         System.out.println("HelloGit");
         System.out.println("HelloPush");
+        System.out.println("HelloPull");
     }
 }
